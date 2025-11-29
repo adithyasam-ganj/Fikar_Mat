@@ -2,8 +2,7 @@
 A private, friendly companion on Telegram that coaching institutes can partner with  to take care of the mental health of their students.
 
 
-# Recent Updates
-I have still kept the older versions as they are small and a bit simplified. So you can test models and other things with them!
+# Recent model
 
 - *Telegram_bot_agent_sys* is the latest file with the agent system framework developed.
 
