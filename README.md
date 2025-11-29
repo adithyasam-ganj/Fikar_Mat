@@ -6,6 +6,8 @@ A private, friendly companion on Telegram that coaching institutes can partner w
 
 - *Telegram_bot_agent_sys* is the latest file with the agent system framework developed.
 
+- *Hing-Roberta* is the model training notebook
+
 
 # Running the Files
 - *Telegram_bot_APS_dash.ipynb* needs the *db_models.py* file as it has the database models and the *institute_dashboard.py* file, which contains the streamlit dashboard. For running the Streamlit dashboard just use *streamlit run institute_dashboard.py*.
