@@ -1,0 +1,13 @@
+# Fikar_Mat_MumbaiHacks
+A private, friendly companion on Telegram that coaching institutes can partner with  to take care of the mental health of their students.
+
+
+# Recent Updates
+I have still kept the older versions as they are small and a bit simplified. So you can test models and other things with them!
+
+- *Telegram_bot_agent_sys* is the latest file with the agent system framework developed.
+
+
+# Running the Files
+- *Telegram_bot_APS_dash.ipynb* needs the *db_models.py* file as it has the database models and the *institute_dashboard.py* file, which contains the streamlit dashboard. For running the Streamlit dashboard just use *streamlit run institute_dashboard.py*.
+
