@@ -12,7 +12,7 @@ A private, friendly companion on Telegram that coaching institutes can partner w
 # Running the Files
 
 - Bot Link: https://t.me/Arpan1stBot
-- You can simply start with a *Hello* or anything to start the conversation
+- The bot is running. You can simply start with a *Hello* or anything to start the conversation
 
 - You can use *Telegram_bot_agent_sys.ipynb* to create your own agentic system after creating a Telegram bot.
 - *Telegram_bot_agent_sys.ipynb* needs the *db_models.py* file as it has the database models and the *institute_dashboard.py* file, which contains the streamlit dashboard. For running the Streamlit dashboard just use *streamlit run institute_dashboard.py*.
